@@ -1,0 +1,31 @@
+c:\users\nc\documents\visual studio 2013\Projects\snake\snake\bin\Debug\snake.exe.config
+c:\users\nc\documents\visual studio 2013\Projects\snake\snake\bin\Debug\snake.exe
+c:\users\nc\documents\visual studio 2013\Projects\snake\snake\bin\Debug\snake.pdb
+c:\users\nc\documents\visual studio 2013\Projects\snake\snake\obj\Debug\snake.csprojResolveAssemblyReference.cache
+c:\users\nc\documents\visual studio 2013\Projects\snake\snake\obj\Debug\snake.Form1.resources
+c:\users\nc\documents\visual studio 2013\Projects\snake\snake\obj\Debug\snake.Properties.Resources.resources
+c:\users\nc\documents\visual studio 2013\Projects\snake\snake\obj\Debug\snake.csproj.GenerateResource.Cache
+c:\users\nc\documents\visual studio 2013\Projects\snake\snake\obj\Debug\snake.exe
+c:\users\nc\documents\visual studio 2013\Projects\snake\snake\obj\Debug\snake.pdb
+c:\users\nc\documents\visual studio 2013\Projects\snake\snake\obj\Debug\snake.Form2.resources
+C:\Users\Екатерина\Desktop\snake\snake\bin\Debug\snake.exe.config
+C:\Users\Екатерина\Desktop\snake\snake\obj\Debug\snake.exe
+C:\Users\Екатерина\Desktop\snake\snake\obj\Debug\snake.pdb
+C:\Users\Екатерина\Desktop\snake\snake\bin\Debug\snake.exe
+C:\Users\Екатерина\Desktop\snake\snake\bin\Debug\snake.pdb
+C:\Users\Екатерина\Desktop\snake\snake\obj\Debug\snake.csprojResolveAssemblyReference.cache
+C:\Users\Екатерина\Desktop\snake\snake\obj\Debug\snake.Form1.resources
+C:\Users\Екатерина\Desktop\snake\snake\obj\Debug\snake.Form2.resources
+C:\Users\Екатерина\Desktop\snake\snake\obj\Debug\snake.Properties.Resources.resources
+C:\Users\Екатерина\Desktop\snake\snake\obj\Debug\snake.csproj.GenerateResource.Cache
+C:\Users\Katerina\Desktop\snake\snake\bin\Debug\snake.exe.config
+C:\Users\Katerina\Desktop\snake\snake\bin\Debug\snake.exe
+C:\Users\Katerina\Desktop\snake\snake\bin\Debug\snake.pdb
+C:\Users\Katerina\Desktop\snake\snake\obj\Debug\snake.csprojResolveAssemblyReference.cache
+C:\Users\Katerina\Desktop\snake\snake\obj\Debug\snake.Form1.resources
+C:\Users\Katerina\Desktop\snake\snake\obj\Debug\snake.Form2.resources
+C:\Users\Katerina\Desktop\snake\snake\obj\Debug\snake.Properties.Resources.resources
+C:\Users\Katerina\Desktop\snake\snake\obj\Debug\snake.csproj.GenerateResource.Cache
+C:\Users\Katerina\Desktop\snake\snake\obj\Debug\snake.csproj.CoreCompileInputs.cache
+C:\Users\Katerina\Desktop\snake\snake\obj\Debug\snake.exe
+C:\Users\Katerina\Desktop\snake\snake\obj\Debug\snake.pdb
