@@ -1,4 +1,4 @@
-﻿namespace snake
+﻿namespace Snake
 {
     partial class Form2
     {

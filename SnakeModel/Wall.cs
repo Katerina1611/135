@@ -1,20 +1,16 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Drawing;
 
-namespace snake
+namespace SnakeModel
 {
-    class Wall : Pnt
+    public class Wall : Pnt
     {
         public Wall(Random rnd)
         {
             _x = rnd.Next(SZX);
             _y = rnd.Next(SZY);
         }
-       
+
         public override void Paint(Graphics g, int width)
         {
             Brush b = new SolidBrush(Color.Black);
